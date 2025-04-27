@@ -48,4 +48,4 @@ Collected Superstore dataset from Kaggle, analyzed and processed data using SQL 
 ![image](https://github.com/user-attachments/assets/68e211d8-f94e-41e4-81f9-6750fea9cb28)
 
 ---
-Developed by NHAT HA– Final-year student at University of Economics Ho Chi Minh City.
+By NHAT HA– Final-year student at University of Economics Ho Chi Minh City.
