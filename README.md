@@ -35,6 +35,8 @@ Collected Superstore dataset from Kaggle, analyzed and processed data using SQL 
   
 ## Dashboard Preview 
 
+-Snowflake Schema
+![image](https://github.com/user-attachments/assets/21300dce-446d-48b5-a8fa-4d1456578cf8)
 -Overview
 ![image](https://github.com/user-attachments/assets/fff3db6a-afe0-4e1d-8414-d1d90f18c0ce)
 -Details
